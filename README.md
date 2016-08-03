@@ -1,2 +1,2 @@
 # prpatil.github.io
-personal website
+Repository for my personal website. Check it out at http://prasadpatil.net.
